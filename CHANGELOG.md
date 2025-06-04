@@ -1,3 +1,6 @@
+## NEXT
+* feat: update flutter sdk and flutter_quill dependency to support >=3.32.0
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
