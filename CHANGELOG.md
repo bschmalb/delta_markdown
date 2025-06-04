@@ -1,4 +1,4 @@
-## NEXT
+## [0.9.0] - 2025-06-04
 * feat: update flutter sdk and flutter_quill dependency to support >=3.32.0
 
 # Changelog
